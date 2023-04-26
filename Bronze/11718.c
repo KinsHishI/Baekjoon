@@ -5,10 +5,10 @@
 #include <stdlib.h>
 
 int main(void) {
-	char arr[101];
+	char a;
 
-	while (fgets(arr, sizeof(arr), stdin) != EOF)
-		printf("%s", arr);
+	while (scanf("%c", &a) != -1)
+		printf("%c", a);
 
 	return 0;
 }
