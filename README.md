@@ -1,2 +1,5 @@
 # Baekjoon
-이정민은 백준을 꾸준히 풀까?
+<div align=center>
+<p>🏆 Baekjoon solved rank 🏆</p>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongmin9011)](https://solved.ac/jeongmin9011)
+</div>
