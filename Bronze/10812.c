@@ -6,7 +6,7 @@
 
 int main(void) {
 	int N, M, begin, end, mid;
-	
+
 	scanf("%d %d", &N, &M);
 	int* arr = (int*)malloc(sizeof(int) * N + 1);
 	int* tmp = (int*)malloc(sizeof(int) * N + 1);
